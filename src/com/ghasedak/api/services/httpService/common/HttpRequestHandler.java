@@ -1,4 +1,4 @@
-package api.services.httpService.common;
+package com.ghasedak.api.services.httpService.common;
 
 import java.io.BufferedReader;
 import java.io.IOException;

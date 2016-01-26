@@ -1,6 +1,6 @@
-package api.exceptions;
+package com.ghasedak.api.exceptions;
 
-import api.assets.ErrorCodes;
+import com.ghasedak.api.assets.ErrorCodes;
 
 /**
  * Created by gladiator on 1/24/16.

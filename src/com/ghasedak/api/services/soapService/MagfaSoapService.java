@@ -1,4 +1,4 @@
-package api.services.soapService;
+package com.ghasedak.api.services.soapService;
 
 /**
  * Created by gladiator on 1/24/16.

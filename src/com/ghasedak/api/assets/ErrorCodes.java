@@ -1,4 +1,4 @@
-package api.assets;
+package com.ghasedak.api.assets;
 
 /**
  * Created by gladiator on 1/24/16.

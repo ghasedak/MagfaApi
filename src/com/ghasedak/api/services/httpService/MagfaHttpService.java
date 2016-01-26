@@ -1,11 +1,11 @@
-package api.services.httpService;
+package com.ghasedak.api.services.httpService;
 
-import api.configuration.Config;
-import api.entity.Credit;
-import api.entity.SmsMessage;
-import api.assets.ErrorCodes;
-import api.exceptions.MagfaHttpServiceException;
-import api.services.httpService.common.HttpRequestHandler;
+import com.ghasedak.api.configuration.Config;
+import com.ghasedak.api.entity.Credit;
+import com.ghasedak.api.entity.SmsMessage;
+import com.ghasedak.api.assets.ErrorCodes;
+import com.ghasedak.api.exceptions.MagfaHttpServiceException;
+import com.ghasedak.api.services.httpService.common.HttpRequestHandler;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;

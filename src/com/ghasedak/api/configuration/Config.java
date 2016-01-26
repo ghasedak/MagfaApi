@@ -1,4 +1,4 @@
-package api.configuration;
+package com.ghasedak.api.configuration;
 
 import java.io.File;
 import java.io.FileReader;

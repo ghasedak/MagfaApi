@@ -1,4 +1,4 @@
-package api.entity;
+package com.ghasedak.api.entity;
 
 /**
  * Created by gladiator on 1/24/16.
